@@ -1,1 +1,1 @@
-I graduated with a bachelor's degree in computer science and information system. I am a data scientist with a strong background In Statistics, Probability, SQL, and Python (Numpy, Pandas, Matplotlib, and Seaborn). I can do Data Manipulation, Data Cleaning, and Data Visualization. I have a background in machine learning algorithms and deep learning.
+just data scientist 🤓
