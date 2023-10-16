@@ -1,1 +1,1 @@
-just data scientist 🤓
+just Programmer 🤓
