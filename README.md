@@ -2,7 +2,7 @@
 ## I'm passionate about Machine Learning and Deep Learning Engineering
 
 - 🎓 I hold a degree in Computer Science and Information System.
-- 💡 I'm passionate about Machine Learning and Deep Learning engineering. Seeking hands-on experience in the field, I am eager to apply my knowledge and skills to real-world projects and collaborate with interdisciplinary teams on model development. With my strong communication skills, I aim to translate complex data insights into actionable solutions, driving innovation and impact in the field of machine learning.
+- 💡 Seeking hands-on experience in the field, I am eager to apply my knowledge and skills to real-world projects and collaborate with interdisciplinary teams on model development. With my strong communication skills, I aim to translate complex data insights into actionable solutions, driving innovation and impact in the field of machine learning.
 - 💡 I am committed to continuous learning with the goal of becoming a computer vision engineer.
 <p align="center">
 <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="d" height="250" width="500" />
