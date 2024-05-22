@@ -1,5 +1,5 @@
 # Hi there! 👋I'm Mohammed Hamdy 
-## I'm a passionate Machine Learning | Deep Learning Engineer
+## I'm passionate about Machine Learning and Deep Learning Engineering
 
 - 🎓 I hold a degree in Computer Science and Information System.
 - 🌱 I'm constantly learning and exploring new techniques and tools in ML and DL.
