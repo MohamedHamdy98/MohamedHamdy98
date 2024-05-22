@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub profile! I'm passionate about machine learning and deep learning, and I love to explore new techniques and algorithms to solve challenging problems and seeking to keep learning to become Computer vision Engineer.
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="d" height="400" width="800" />
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="d" height="600" width="600" />
 
 ### Connect with Me:
 <p align="left">
