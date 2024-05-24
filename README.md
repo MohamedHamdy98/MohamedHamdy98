@@ -9,7 +9,7 @@
   
 ## Skills
 - **Languages:** Python, SQL
-- **Frameworks/Libraries:** TensorFlow, Scikit-learn, Keras, Pandas, StreamLit
+- **Frameworks/Libraries:** TensorFlow, Scikit-learn, OpenCv, Keras, Pandas, StreamLit
 - **Data Visualization:** Seaborn, Matplotlib, Plotly
 - **Machine Learning and Deep Learning Algorithms**
   
