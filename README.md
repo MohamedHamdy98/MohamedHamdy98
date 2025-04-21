@@ -8,9 +8,9 @@
 <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="d" height="250" width="500" />
   
 ## Skills
-- **Languages:** Python, SQL
-- **Frameworks/Libraries:** TensorFlow, Scikit-learn, OpenCv, Keras, Pandas, StreamLit
-- **Data Visualization:** Seaborn, Matplotlib, Plotly
+- **Languages:** Python
+- **Frameworks/Libraries:** TensorFlow, Docker, FastAPI, StreamLit, Gradio, HuggingFace, Scikit-learn, OpenCv, Keras, Pandas, GIT
+- **Cloud:** AZURE
 - **Machine Learning and Deep Learning Algorithms**
   
 ### Connect with Me:
