@@ -10,7 +10,7 @@
 ## Skills
 - **Languages:** Python
 - **Frameworks/Libraries:** TensorFlow, Docker, FastAPI, StreamLit, Gradio, HuggingFace, Scikit-learn, OpenCv, Keras, Pandas, GIT
-- **Cloud:** AZURE
+- **Cloud:** AZURE, Salad
 - **Machine Learning and Deep Learning Algorithms**
   
 ### Connect with Me:
