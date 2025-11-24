@@ -3,7 +3,7 @@
 > Specializing in **Multimodal AI Systems** | **LLM Applications** | **Production ML Deployment**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-hamdy-4b80301a7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://mohamedhamdy98.github.io/MohammedHamdyPortfolio.github.io/)
+# [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://mohamedhamdy98.github.io/MohammedHamdyPortfolio.github.io/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/mohammedhamdy98)
 
 ## 👨‍💻 About Me
@@ -137,9 +137,6 @@ Building production-grade AI systems with focus on multimodal capabilities and i
   </a>
   <a href="https://www.kaggle.com/mohammedhamdy98">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://mohamedhamdy98.github.io/MohammedHamdyPortfolio.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://flowcv.com/resume/7d3hnros8v9d">
     <img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
