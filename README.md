@@ -102,20 +102,6 @@ Building production-grade AI systems with focus on multimodal capabilities and i
 **Tech Stack:** `LangChain` • `FAISS` • `Multimodal VLMs` • `FastAPI` • `Docker` • `Azure ML`
 
 **Impact:** Automated 80% of manual compliance review processes
-
----
-
-### 🎨 **PixiCamel** | 3D Generation & Creative AI Suite
-> Scalable cloud-native platform for 3D content generation and creative workflows
-
-**What I Built:**
-- Developed **3D generation tools** using open-source diffusion models
-- Built containerized microservices architecture for scalable deployment
-- Implemented real-time preview system with WebSocket streaming
-- Optimized inference with **vLLM** and model quantization
-
-**Tech Stack:** `Transformers` • `Diffusion Models` • `Docker` • `FastAPI` • 
-
 ---
 
 ### 🎮 **Interactive AI Gaming** | Narrative AI Agents
